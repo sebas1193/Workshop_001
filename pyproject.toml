@@ -11,6 +11,7 @@ numpy = "^2.0.1"
 pandas = "^2.2.2"
 matplotlib = "^3.9.1.post1"
 psycopg2 = "^2.9.9"
+python-dotenv = "^1.0.1"
 
 
 [build-system]
