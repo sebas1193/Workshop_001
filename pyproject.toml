@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "workshop-001"
+version = "0.1.1"
+description = "Resolution of the workshop_001"
+authors = ["Sebastian Ortiz"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+numpy = "^2.0.1"
+pandas = "^2.2.2"
+matplotlib = "^3.9.1.post1"
+psycopg2 = "^2.9.9"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
