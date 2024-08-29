@@ -11,8 +11,18 @@ numpy = "^2.0.1"
 pandas = "^2.2.2"
 matplotlib = "^3.9.1.post1"
 psycopg2 = "^2.9.9"
+sqlalchemy = "^2.0.32"
+geopy = "^2.4.1"
+notebook = "^7.2.1"
+ipykernel = "^6.29.5"
+dateutils = "^0.6.12"
+jupyter = "^1.0.0"
 python-dotenv = "^1.0.1"
+pycountry-convert = "^0.7.2"
 
+
+[tool.poetry.group.dev.dependencies]
+ipykernel = "^6.29.5"
 
 [build-system]
 requires = ["poetry-core"]

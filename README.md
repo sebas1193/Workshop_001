@@ -12,6 +12,14 @@ This project aims to provide a solution for Workshop 1, where an ETL (Extract, T
 - SQLAlchemy <img src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/@@images/eca35254-a2db-47a8-850b-2678f7f8bc09.png" alt="SQLalchemy" width="50px" height="21px">
 
 ---
+# Requirements
+
+ - Install Python: [Python Downloads](https://www.python.org/downloads/)
+ - Install Poetry: [Poetry Downloads](https://python-poetry.org/docs/#installing-with-the-official-installer)
+ - Install PostgreSQL: [PostgreSQL Downloads](https://www.postgresql.org/download/)
+ - Install Power BI: [Install Power BI Desktop](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
+
+---
 # Project Setup
 
 ### Clone the Repository
