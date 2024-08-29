@@ -3,12 +3,13 @@
 This project aims to provide a solution for Workshop 1, where an ETL (Extract, Transform, Load) process is applied to a dataset about global talent recruitment.
 
 ## Tools Used
-- Python
-- Poetry
-- Jupyter Notebooks
-- GeoJSON
-- Postgres
-- Power BI
+- Python <img src="https://cdn-icons-png.flaticon.com/128/3098/3098090.png" alt="Python" width="21px" height="21px">
+- Poetry <img src="https://python-poetry.org/images/logo-origami.svg" alt="Poetry" width="21px" height="21px">
+- Jupyter Notebooks <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/883px-Jupyter_logo.svg.png" alt="Jupyer" width="21px" height="21px">
+- GeoJSON <img src="https://cdn-icons-png.flaticon.com/512/11570/11570271.png" alt="Json" width="21px" height="21px">
+- Postgres <img src="https://cdn-icons-png.flaticon.com/128/5968/5968342.png" alt="Postgres" width="21px" height="21px">
+- Power BI <img src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo.png" alt="PowerBI" width="30px" height="21px">
+- SQLAlchemy <img src="https://quintagroup.com/cms/python/images/sqlalchemy-logo.png/@@images/eca35254-a2db-47a8-850b-2678f7f8bc09.png" alt="SQLalchemy" width="50px" height="21px">
 
 ---
 # Project Setup
@@ -41,9 +42,6 @@ poetry install
 
 To execute the notebooks, you'll need to start the Jupyter server. Run the following command from the CLI:
 
-bash
-
-Copiar código
 
 ```bash
 jupyter notebook
